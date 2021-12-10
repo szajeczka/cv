@@ -1,0 +1,28 @@
+
+  body {
+    background-color: #FFFCDC ;
+    color: black;
+  }
+  hr {
+    width: 6%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-height: 20px;
+    border-color: #a1c65d;
+  }
+  h1 {
+    font-size: 100px;
+    color:#0cb2af;
+  }
+  h3 {
+    color: #936fac;
+    font-size: 40px;
+    font-style: italic;
+  }
+hr {
+  height: 10px;
+  width: 30px;
+  style: dotted;
+  color: #FFB0B0;
+}
